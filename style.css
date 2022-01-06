@@ -2,6 +2,19 @@ body{
           font-family: 'Poppins', sans-serif;
 }
 
+.heading-border{
+          border-left: 5px solid orange;
+}
+.heading-blc{
+          font-size: 45px;
+          
+}
+
+.heading-org{
+          font-size: 45px;
+          
+}
+
 .color{
           color:orange;
 }
@@ -18,7 +31,7 @@ section{
 
 
 .link-button{
-          background-image: linear-gradient(orange,tomato,rgb(105, 128, 0));
+          background-image:linear-gradient(orange,tomato,rgb(105, 128, 0));
           text-decoration: none;
           padding: 10px 40px;
           border-radius: 5px;
@@ -47,7 +60,6 @@ section{
           background-color:#F3F1E7;
          float:right;
          margin: 1%;
-         /* box-shadow:20px solid yellowgreen; */
          padding:2%;
          border: 5% solid salmon;
          border-radius: 5%;
@@ -59,7 +71,6 @@ section{
           background-color:#D5CDC1;
           float: left;
           margin: 1%;
-          /* box-shadow:20px solid turquoise; */
           padding:2%;
           border: 5% solid salmon;
           border-radius: 5%;
@@ -70,7 +81,6 @@ section{
           background-color:#F2DEC9;
           margin: 0 auto;
           margin: 1%;
-          /* box-shadow:20px solid tomato; */
           padding:2%;
           border: 5% solid salmon;
           border-radius: 5%;
@@ -95,6 +105,7 @@ section{
 .imgsetup-left{
 
           width:50%;
+          margin-left: 5px;
 
 }
 
@@ -108,7 +119,7 @@ section{
 }
 
 .link-button2{
-          background-image: linear-gradient(orange,gray,teal,salmon);
+          background-image:linear-gradient(orange,tomato,rgb(105, 128, 0));
           text-decoration: none;
           padding: 10px 50px;
           border-radius: 5px;
@@ -129,12 +140,18 @@ section{
 }
 
 .link-button3{
-          background-image:linear-gradient(salmon,yellowgreen,orange);
+          background-image:linear-gradient(orange,tomato,rgb(105, 128, 0));
           text-decoration: none;
           padding: 10px 50px;
           border-radius: 5px;
 }
 
+.text{
+          text-align: center;
+}
+.text-decoration{
+          color:orange;
+}
 .application{
           width: 50%;
           float:left;
@@ -149,6 +166,8 @@ section{
 .birth img{
           width:450px;
           height: 350px;
+          margin-left: 5px;
+          border-radius: 15px;
 }
 
 footer{
@@ -164,7 +183,7 @@ footer{
 }
 
 .link-button4{
-          background-image:linear-gradient(salmon,yellowgreen,orange);
+          background-image:linear-gradient(orange,tomato,rgb(105, 128, 0));
           text-decoration: none;
           padding: 10px 50px;
           border-radius: 5px;
