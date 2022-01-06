@@ -15,10 +15,14 @@ section{
     padding:5%;
 }
 
-a{
- /* background-color: orange; */
- background-image: linear-gradient(orange,tomato,green);
- text-decoration: none;
+
+
+.link-button{
+          background-image: linear-gradient(orange,tomato,rgb(105, 128, 0));
+          text-decoration: none;
+          padding: 10px 40px;
+          border-radius: 5px;
+          color:white;
 }
 
 .right{
