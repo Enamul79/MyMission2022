@@ -1,0 +1,29 @@
+.heading{
+          width:50%;
+         float:left;
+}
+
+
+.heading-image{
+          width: 50%;  
+          float:right;  
+}
+
+.heading-image img{
+          width: 375px;
+          height: 375px;
+          
+}
+
+.heading h1{
+          color:darkgoldenrod;
+          margin: 0px;
+          margin-left: 25px;
+          border-left: 7px solid coral;
+}
+.heading button{
+          background-image: linear-gradient(green,yellow,rgb(8, 212, 168),tomato);
+          width: 150px;
+          height: 35px;
+
+}
