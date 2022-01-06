@@ -1,29 +1,30 @@
-.heading{
-          width:50%;
-         float:left;
+body{
+          font-family: 'Poppins', sans-serif;
 }
 
-
-.heading-image{
-          width: 50%;  
-          float:right;  
+.color{
+          color:orange;
 }
 
-.heading-image img{
-          width: 375px;
-          height: 375px;
-          
+section{
+          display: flex;
 }
 
-.heading h1{
-          color:darkgoldenrod;
-          margin: 0px;
-          margin-left: 25px;
-          border-left: 7px solid coral;
+.left{
+    width:50%;
+    padding:5%;
 }
-.heading button{
-          background-image: linear-gradient(green,yellow,rgb(8, 212, 168),tomato);
-          width: 150px;
-          height: 35px;
 
+a{
+ /* background-color: orange; */
+ background-image: linear-gradient(orange,tomato,green);
+ text-decoration: none;
+}
+
+.right{
+   width:50%;
+}
+
+.right img{
+          width:70%;
 }
