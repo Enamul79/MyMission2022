@@ -32,3 +32,63 @@ section{
 .right img{
           width:70%;
 }
+
+.MyMission2022{
+          text-align: center;
+          color:yellow;
+}
+
+.styling{
+          color:tomato;
+}
+
+.div1{
+          width: 33.33%;
+          background-color:#F3F1E7;
+         float:right;
+         margin: 1%;
+         /* box-shadow:20px solid yellowgreen; */
+         padding:2%;
+         border: 5% solid salmon;
+         border-radius: 5%;
+          
+}
+
+.div2{
+          width:33.33%;
+          background-color:#D5CDC1;
+          float: left;
+          margin: 1%;
+          /* box-shadow:20px solid turquoise; */
+          padding:2%;
+          border: 5% solid salmon;
+          border-radius: 5%;
+}
+
+.div3{
+          width: 33.33%;
+          background-color:#F2DEC9;
+          margin: 0 auto;
+          margin: 1%;
+          /* box-shadow:20px solid tomato; */
+          padding:2%;
+          border: 5% solid salmon;
+          border-radius: 5%;
+          
+}
+
+.div1 img{
+          width: 200px;
+          height: 200px;
+}
+
+.div2 img{
+          width: 200px;
+          height: 200px;
+}
+
+.div3 img{
+          width: 200px;
+          height: 200px;
+}
+
