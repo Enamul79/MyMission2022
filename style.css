@@ -92,3 +92,80 @@ section{
           height: 200px;
 }
 
+.imgsetup-left{
+
+          width:50%;
+
+}
+
+.imgsetup-left img{
+          width:450px;
+          height:450px;
+}
+
+.textsetup-right{
+          width:50%;
+}
+
+.link-button2{
+          background-image: linear-gradient(orange,gray,teal,salmon);
+          text-decoration: none;
+          padding: 10px 50px;
+          border-radius: 5px;
+          
+}
+
+.community{
+          width: 60%;
+}
+
+.community-image{
+          width: 40%;
+}
+
+.community-image img{
+          width:450px;
+          height:450px;
+}
+
+.link-button3{
+          background-image:linear-gradient(salmon,yellowgreen,orange);
+          text-decoration: none;
+          padding: 10px 50px;
+          border-radius: 5px;
+}
+
+.application{
+          width: 50%;
+          float:left;
+
+}
+
+.birth{
+          width: 50%;
+          float:right;
+}
+
+.birth img{
+          width:450px;
+          height: 350px;
+}
+
+footer{
+          background-color: black;
+          color:white;
+          text-align: center;
+          padding:25px;
+}
+
+.footer-design{
+          color:tomato;
+          font-family: cursive;
+}
+
+.link-button4{
+          background-image:linear-gradient(salmon,yellowgreen,orange);
+          text-decoration: none;
+          padding: 10px 50px;
+          border-radius: 5px;
+}
